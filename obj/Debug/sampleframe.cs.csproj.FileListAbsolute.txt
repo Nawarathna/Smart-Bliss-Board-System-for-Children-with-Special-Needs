@@ -1,0 +1,88 @@
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe.config
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.pdb
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csprojResolveAssemblyReference.cache
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Properties.Resources.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csproj.GenerateResource.Cache
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.exe
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.pdb
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.FirstForm.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.signin.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.SignIn2.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Login.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\bliz.Student.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\INTERFACES\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.StuSymbols.resources
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe.config
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.exe
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.pdb
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.FirstForm.resources
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Login.resources
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Properties.Resources.resources
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\bliz.Student.resources
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csproj.GenerateResource.Cache
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\bin\Debug\Database1.mdf
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\bin\Debug\Database1_log.ldf
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.pdb
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.ADDstudent.resources
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.ADDtutor.resources
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.tutorScreen.resources
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.stUI.resources
+C:\Users\Vihz\Downloads\p Pro\sampleframe.cs-20200310T165803Z-001\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.MessageBox.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe.config
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.exe
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.pdb
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\bin\Debug\Database1.mdf
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\bin\Debug\Database1_log.ldf
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.pdb
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csprojResolveAssemblyReference.cache
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.FirstForm.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Login.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.MessageBox.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Properties.Resources.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.ADDstudent.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.ADDtutor.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\bliz.Student.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.stUI.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.tutorScreen.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-09\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csproj.GenerateResource.Cache
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe.config
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.exe
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.pdb
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\bin\Debug\Database1.mdf
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\bin\Debug\Database1_log.ldf
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.pdb
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csprojResolveAssemblyReference.cache
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.FirstForm.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Login.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.MessageBox.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Properties.Resources.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.ADDstudent.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.ADDtutor.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\bliz.Student.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.stUI.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.tutorScreen.resources
+H:\level 3\1 nd semester\uni 3rd year\1st semester\project\Project Version\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csproj.GenerateResource.Cache
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe.config
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.exe
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.pdb
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\bin\Debug\Database1.mdf
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\bin\Debug\Database1_log.ldf
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csprojResolveAssemblyReference.cache
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.FirstForm.resources
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Login.resources
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.MessageBox.resources
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.Properties.Resources.resources
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.ADDstudent.resources
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.ADDtutor.resources
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\bliz.Student.resources
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.stUI.resources
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.tutorScreen.resources
+C:\Users\Nawarathna\Downloads\2020-05-21\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.csproj.GenerateResource.Cache
+C:\Users\Nawarathna\Downloads\2020-05-21\Smart-Bliss-Board-System-for-Children-with-Special-Needs\sampleframe.cs\sampleframe.cs\bin\Debug\sampleframe.cs.exe.config
+C:\Users\Nawarathna\Downloads\2020-05-21\Smart-Bliss-Board-System-for-Children-with-Special-Needs\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.exe
+C:\Users\Nawarathna\Downloads\2020-05-21\Smart-Bliss-Board-System-for-Children-with-Special-Needs\sampleframe.cs\sampleframe.cs\obj\Debug\sampleframe.cs.pdb
